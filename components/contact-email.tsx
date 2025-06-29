@@ -322,7 +322,7 @@ export default function ContactEmail(): React.ReactElement {
                             <div className="w-full order-2 lg:order-2 flex items-center justify-center relative z-0">
                                 {(() => {
                                     // WhatsApp helper variables
-                                    const whatsappNumber = "919876543210"; // TODO: replace with real number or env var
+                                    const whatsappNumber = "917877205765"; // TODO: replace with real number or env var
                                     const whatsappMessage = "Hello Solnix Media, I'm interested in your services.";
                                     const whatsappLink = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappMessage)}`;
 
